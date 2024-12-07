@@ -39,6 +39,13 @@
     place-items: flex-start center;
     background: var(--bg);
   }
+
+  body{
+    width: 100cqw;
+    min-height: 100cqh;
+    margin: 0;
+    padding: 0;
+  }
   /* body {
     width: 100cqw;
     min-height: 100cqh;
